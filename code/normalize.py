@@ -1,8 +1,3 @@
-# Copyright (c) 2019, Paul Almasan [^1], Sergi Carol [^1]
-#
-# [^1]: Universitat Politècnica de Catalunya, Computer Architecture
-#     department, Barcelona, Spain. Email: almasan@ac.upc.edu
-
 import numpy as np
 import os, random
 import argparse
