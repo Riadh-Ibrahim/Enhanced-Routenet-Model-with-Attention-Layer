@@ -44,12 +44,7 @@ To train the model, you can use the provided training script. For instance, to t
 ```bash
 ./run_routenet.sh train nsfnetbw 50000
 ```
-## Monitor Training
-Use TensorBoard to monitor the training process:
 
-```bash
-tensorboard --logdir <path_to_logs>
-```
 ## Monitor Training
 Use TensorBoard to monitor the training process:
 
