@@ -24,7 +24,7 @@ To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-## Download the Datasets
+## Download the Dataset
 To download the NSFNET dataset, use the following commands:
 
 ```bash
