@@ -54,7 +54,7 @@ tensorboard --logdir <path_to_logs>
 Then open [http://localhost:6006/](http://localhost:6006/) in your web browser to view the training logs.
 
 ## Usage
-Once the model is trained, you can use it to make predictions on arbitrary samples from the dataset. We provide a Jupyter notebook in the `demo_notebooks` directory that demonstrates how to load the trained model and make predictions.
+Once the model is trained, you can use it to make predictions on arbitrary samples from the dataset.
 
 ## Example Commands
 
